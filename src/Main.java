@@ -6,6 +6,6 @@ public class Main {
         System.out.println(miles);
 
         System.out.println();
-        System.out.println(service.calculate(1000));
+        System.out.println(service.calculate(1000)+ " бонусных миль");
     }
 }
