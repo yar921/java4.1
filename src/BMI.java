@@ -5,7 +5,7 @@ public class BMI {
         int m = 70;
         double index = servise.calculate(m, h);
 
-        System.out.println(servise.calculate(77, 1.7));
+        System.out.println(servise.calculate(77, 1.7)+ " индекс массы тела");
 
     }
 }
